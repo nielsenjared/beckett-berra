@@ -1,9 +1,9 @@
 const quotes = [
     {
-        input: "I",
+        input: "",
         output: { beckett: 1 }
     },{
-        input: "I",
+        input: "",
         output: { berra: 1 }
     },{
         input: "Ever tried. Ever failed. Try again. Fail again. Fail better.",
@@ -73,6 +73,54 @@ const quotes = [
         output: { berra: 1 }
     },{
         input: "Dance first. Think later. It's the natural order.",
+        output: { beckett: 1 }
+    },{
+        input: "Pair up in threes.",
+        output: { berra: 1 }
+    },{
+        input: "The sun shone, having no alternative, on the nothing new.",
+        output: { beckett: 1 }
+    },{
+        input: "You’ve got to be very careful if you don’t know where you are going, because you might not get there.",
+        output: { berra: 1 }
+    },{
+        input: "I'm like that. Either I forget right away or I never forget.",
+        output: { beckett: 1 }
+    },{
+        input: "It was impossible to get a conversation going, everybody was talking too much.",
+        output: { berra: 1 }
+    },{
+        input: "My mistakes are my life.",
+        output: { beckett: 1 }
+    },{
+        input: "I never said most of the things I said.",
+        output: { berra: 1 }
+    },{
+        input: "Nothing is funnier than unhappiness.",
+        output: { beckett: 1 }
+    },{
+        input: "If you ask me anything I don’t know, I’m not going to answer.",
+        output: { berra: 1 }
+    },{
+        input: "Nothing is more real than nothing.",
+        output: { beckett: 1 }
+    },{
+        input: "It ain’t the heat, it’s the humility.",
+        output: { berra: 1 }
+    },{
+        input: "No, I regret nothing, all I regret is having been born, dying is such a long tiresome business I always found.",
+        output: { beckett: 1 }
+    },{
+        input: "If the world were perfect, it wouldn’t be.",
+        output: { berra: 1 }
+    },{
+        input: "The only sin is the sin of being born.",
+        output: { beckett: 1 }
+    },{
+        input: "Take it with a grin of salt.",
+        output: { berra: 1 }
+    },{
+        input: "I use the words you taught me. If they don't mean anything any more, teach me others. Or let me be silent.",
         output: { beckett: 1 }
     }
 ]
