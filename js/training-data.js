@@ -1,11 +1,5 @@
 const quotes = [
     {
-        input: "",
-        output: { beckett: 1 }
-    },{
-        input: "",
-        output: { berra: 1 }
-    },{
         input: "Ever tried. Ever failed. Try again. Fail again. Fail better.",
         output: { beckett: 1 }
     },{
@@ -21,31 +15,31 @@ const quotes = [
         input: "You're on earth. There's no cure for that.",
         output: { beckett: 1 }
     },{
-        input: "It ain’t over till it’s over.",
+        input: "It ain't over till it’s over.",
         output: { berra: 1 }
     },{
         input: "Personally I have no bone to pick with graveyards.",
         output: { beckett: 1 }
     },{
-        input: "It’s like déjà vu all over again.",
+        input: "It's like déjà vu all over again.",
         output: { berra: 1 }
     },{
         input: "I can't go on. I'll go on.",
         output: { beckett: 1 }
     },{
-        input: "No one goes there nowadays, it’s too crowded.",
+        input: "No one goes there nowadays, it's too crowded.",
         output: { berra: 1 }
     },{
         input: "Every word is like an unnecessary stain on silence and nothingness.",
         output: { beckett: 1 }
     },{
-        input: "A nickel ain’t worth a dime anymore.",
+        input: "A nickel ain't worth a dime anymore.",
         output: { berra: 1 }
     },{
         input: "Habit is a great deadener.",
         output: { beckett: 1 }
     },{
-        input: "Always go to other people’s funerals, otherwise they won’t come to yours.",
+        input: "Always go to other people's funerals, otherwise they won't come to yours.",
         output: { berra: 1 }
     },{
         input: "Words are all we have.",
@@ -57,13 +51,13 @@ const quotes = [
         input: "I have my faults, but changing my tune is not one of them.",
         output: { beckett: 1 }
     },{
-        input: "The future ain’t what it used to be.",
+        input: "The future ain't what it used to be.",
         output: { berra: 1 }
     },{
         input: "In the landscape of extinction, precision is next to godliness.",
         output: { beckett: 1 }
     },{
-        input: "You wouldn’t have won if we’d beaten you.",
+        input: "You wouldn't have won if we'd beaten you.",
         output: { berra: 1 }
     },{
         input: "There's man all over for you, blaming on his boots the fault of his feet.",
@@ -81,7 +75,7 @@ const quotes = [
         input: "The sun shone, having no alternative, on the nothing new.",
         output: { beckett: 1 }
     },{
-        input: "You’ve got to be very careful if you don’t know where you are going, because you might not get there.",
+        input: "You've got to be very careful if you don't know where you are going, because you might not get there.",
         output: { berra: 1 }
     },{
         input: "I'm like that. Either I forget right away or I never forget.",
@@ -99,19 +93,19 @@ const quotes = [
         input: "Nothing is funnier than unhappiness.",
         output: { beckett: 1 }
     },{
-        input: "If you ask me anything I don’t know, I’m not going to answer.",
+        input: "If you ask me anything I don't know, I'm not going to answer.",
         output: { berra: 1 }
     },{
         input: "Nothing is more real than nothing.",
         output: { beckett: 1 }
     },{
-        input: "It ain’t the heat, it’s the humility.",
+        input: "It ain't the heat, it's the humility.",
         output: { berra: 1 }
     },{
         input: "No, I regret nothing, all I regret is having been born, dying is such a long tiresome business I always found.",
         output: { beckett: 1 }
     },{
-        input: "If the world were perfect, it wouldn’t be.",
+        input: "If the world were perfect, it wouldn't be.",
         output: { berra: 1 }
     },{
         input: "The only sin is the sin of being born.",

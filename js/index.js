@@ -7,8 +7,11 @@ $(function() {
 
     //convert each quote to an array of floats between 0 and 1
     const encoder = (str) => {
+       console.log("encoding ", str);
        const arr = str.split('');
+       console.log("split ", arr);
        const encoded = arr.map(e => (e.charCodeAt(0) / 256));
+       console.log("encoded ", encoded);
        return encoded;
     }
 
