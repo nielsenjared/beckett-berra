@@ -29,7 +29,12 @@ $(function() {
     console.log("data ", data);
 
     const net = new brain.NeuralNetwork();
-    net.train(data);
+    net.train(data, {
+      log: true,
+      logPeriod: 1000,
+      iterations: 20000,
+      learningRate: 0.1
+    });
 
 
     const output = net.run(input);

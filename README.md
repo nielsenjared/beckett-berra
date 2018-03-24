@@ -2,3 +2,7 @@ https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-
 
 
 https://github.com/BrainJS/brain.js
+
+https://github.com/BrainJS/brain.js/issues/169
+
+https://github.com/harthur/brain/issues/77
