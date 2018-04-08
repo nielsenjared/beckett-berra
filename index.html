@@ -3,14 +3,26 @@
   <head>
     <meta charset="utf-8">
     <title></title>
-     <!-- <link rel="stylesheet" type="text/css" href="./style.css"> -->
+     <link rel="stylesheet" type="text/css" href="./style.css">
   </head>
   <body>
-    <form id="github-user-form">
-        <input type="text" id="brain-input" placeholder="Enter quote" size="50">
+    <div id="container">
+    <div id="brain-data"></div>
+    <h1>Beckett || Berra</h1>
+    <form>
+        <input type="text" id="brain-input" placeholder="Enter quote" size="41">
         <input id="run-button" type="submit" value="Run">
     </form>
-    <div id="brain-data"></div>
+
+    <div class="about">
+      <p>
+        The future ain't what it used to be.<br />Try again. Fail again. Fail better.
+      </p>
+      <a href="https://github.com/nielsenjared/beckett-berra" class="about">
+        <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="20px" height="20px'">
+      </a>
+    </div>
+    </div>
     <script src="https://code.jquery.com/jquery-1.11.1.js"></script>
     <script src="./js/brain.js"></script>
     <script src="./js/trainingData.js"></script>

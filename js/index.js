@@ -42,10 +42,10 @@ $(function() {
 
     if (output.beckett > output.berra) {
       $("#brain-data").empty();
-      $("#brain-data").append(`<img src=${samb} width="480px">`)
+      $("#brain-data").append(`<img src=${samb} width="360px">`)
     } else {
       $("#brain-data").empty();
-      $("#brain-data").append(`<img src=${yogi} width="480px">`)
+      $("#brain-data").append(`<img src=${yogi} width="360px">`)
     }
 
   });

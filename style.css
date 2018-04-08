@@ -1,0 +1,27 @@
+#brain-data {
+	margin: auto;
+	/* padding: 10% 0; */
+	height: 420px;
+}
+
+/* img {
+	margin: auto;
+	display: block;
+} */
+
+h1 {
+	font-family: sans-serif;
+	/* margin-top: 10%; */
+	margin-bottom: 1%;
+}
+
+#container {
+	width: 360px;
+	margin: auto;
+}
+
+div.about {
+	text-align: right;
+	padding-right: 2%;
+	/* width: 360px; */
+}
